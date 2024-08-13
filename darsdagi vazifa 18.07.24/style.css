@@ -1,0 +1,121 @@
+.all{
+    width: 75%;
+    margin: auto;
+}
+.h1{
+    text-align: center;
+    font-weight: bold;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.name , .name2, .name3, .name4{
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.left2{
+    text-align:left;
+    background-color: rgb(133, 130, 130);
+}
+.right{
+    text-align: right;
+    background-color: rgb(133, 130, 130);
+}
+.name3{
+    text-align: right;
+}
+.name2{
+    text-align: center;
+}
+.name4{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    background-color: rgb(133, 130, 130);
+}
+.justify{
+    text-align: justify;
+    background-color: rgb(133, 130, 130);
+}
+.h2{
+    text-align: center;
+    font-style: 25px;
+    font-weight: bolder;
+    font-family:'Courier New', Courier, monospace;
+}
+.decoration{
+
+    text-align: justify;
+}
+.underline, .underline2{
+    text-decoration: underline;
+}
+.underline2{
+    margin-left: 10px;
+    font-weight: bold;
+    border: 2px solid blue;
+    padding: 15px 10px 30px;
+}
+.throught, .throught2{
+    text-decoration: line-through;
+}
+.throught2{
+    margin-left: 10px;
+    padding: 15px 10px 30px;
+    font-weight: bold;
+    border: 2px solid pink;
+}
+.ouline, .ouline2{
+    text-decoration: overline underline;
+}
+.ouline2{
+    margin-left: 10px;
+    padding: 15px 10px 30px;
+    font-weight: bold;
+    border: 2px dashed greenyellow;
+}
+.head{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.all .textTransformation p{
+    text-decoration: underline;
+    font-size: 22px;
+}
+.upper{
+    text-transform: uppercase;
+}
+.capitalize{
+    color: red;
+}
+.text{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+text-align: center;
+text-shadow: 5px 5px 10px blue;
+font-size: 50px;
+}
+.text2{
+    text-shadow: 5px 5px 10px yellow;
+    font-family: "Times New Roman", Times, serif;
+    color: red;
+    text-align: center;
+    font-size: 45px;
+}
+.text3{
+    text-align: center;
+    font-size: 40px;
+    font-family: "Comic Sans MS", cursive;
+    color: purple
+}
+.text3 span{
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: darkred;
+    text-decoration: underline;
+}
+div{
+    width: 100%;
+}
